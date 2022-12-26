@@ -10,7 +10,7 @@ html {
     hight: 100%;
     
     /*background-image: linear-gradient(#b04aee, #8239fa);*/
-    background-image: url("https://github.com/alisa-yar/Defly/blob/main/images/stars.png");
+    background-image: url('/images/stars.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -30,18 +30,6 @@ body {
     height: fit-content;
     min-height: 100%;
 }
-
-/*@keyframes gradient {
-      0% {
-          background-position: 0% 50%;
-      }
-      50% {
-          background-position: 100% 50%;
-      }
-      100% {
-          background-position: 0% 50%;
-      }
-}*/
 
 .description, .source{
     color: var(--textColor);
