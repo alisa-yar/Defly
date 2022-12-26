@@ -10,7 +10,7 @@ html {
     hight: 100%;
     
     /*background-image: linear-gradient(#b04aee, #8239fa);*/
-    background-image: url('./Defly/images/stars.png');
+    background-image: url("https://github.com/alisa-yar/Defly/blob/main/images/stars.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
