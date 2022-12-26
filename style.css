@@ -51,7 +51,8 @@ body {
     height: 130px;
     display: block;
     margin: 35px auto 20px;
-    border-radius: 50%;
+    border-radius: 10px;
+    border: solid var(--textColor) 2px;
     -webkit-tap-highlight-color: transparent;
     
 }
