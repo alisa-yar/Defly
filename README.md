@@ -1,13 +1,16 @@
 # Defly Linktree:sparkles:
-https://defly.algofam.tech/
+https://defly.algofam.tech/  
 
 ## Where to host your website?
 Netlify: https://netlify.app  
 Github Pages: https://pages.github.com  
 
 ## Analytics 
-Netlify Analytics: https://docs.netlify.com/monitor-sites/analytics/  
-Microsoft Clarity: https://clarity.microsoft.com  
+I personally recommend using Google Tag Manager and connect it to Microsoft Clarity  
+
+Google Tag Menger: https://tagmanager.google.com/  
+Microsoft Clarity: https://clarity.microsoft.com/  
+Netlify Analytics (9$ per month): https://docs.netlify.com/monitor-sites/analytics/  
 Google Analytics: https://analytics.google.com  
 
 ## Social Media Icons
@@ -34,22 +37,31 @@ The final code shoud look like this: "fa-solid fa-book"
 1. line 7 - website title  
 2. line 10 - website icon image  
 3. line 15 - profile image  
-4. line 19 - user name  
-5. line 23 - description  
-6. lines 27-55 - your social media links  
+4. line 20 - user name  
+5. line 24 - description  
+6. lines 28-52 - your social media links  
 
 ### style.css file
-1. line 4 - text color  
-2. line 12 - your backround image  
+1. line 1 - font (importing it from google fonts)  
+2. line 4 - text color  
+3. line 5 - font 
+4. line 21 - your backround image  
+
 ## Backround image 
 You can change backround to color instead of using an image.  
-You can find your wanted color code here: https://www.color-hex.com  
 
 ### Backround Color
 background-color: #7E65F5;  
+You can find your wanted color code here: https://www.color-hex.com  
 
 ### Gradient Backround Color
-background-image: linear-gradient(#E8E0FF,#7E65F5);  
+background-image: linear-gradient (#E8E0FF, #7E65F5);  
+CSS Gradient Generator: https://www.css-gradient.com/  
 
-## Demo
-https://linktree-template.algofam.tech/
+## Other Free Resources
+Coolors (colors palettes): https://coolors.co  
+ColorsWall (colors palette): https://colorswall.com  
+CSS color picker from photos: https://imagecolorpicker.com/  
+CSS color keyword: https://www.w3.org/wiki/CSS/Properties/color/keywords#Basic_Colors  
+Google Fonts: https://fonts.google.com/  
+
